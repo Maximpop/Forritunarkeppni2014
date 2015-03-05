@@ -1,0 +1,5 @@
+c:\users\0306982909\documents\visual studio 2013\Projects\Forritunarkepni2014Verk9\Forritunarkepni2014Verk9\bin\Debug\Forritunarkepni2014Verk9.exe.config
+c:\users\0306982909\documents\visual studio 2013\Projects\Forritunarkepni2014Verk9\Forritunarkepni2014Verk9\bin\Debug\Forritunarkepni2014Verk9.exe
+c:\users\0306982909\documents\visual studio 2013\Projects\Forritunarkepni2014Verk9\Forritunarkepni2014Verk9\bin\Debug\Forritunarkepni2014Verk9.pdb
+c:\users\0306982909\documents\visual studio 2013\Projects\Forritunarkepni2014Verk9\Forritunarkepni2014Verk9\obj\Debug\Forritunarkepni2014Verk9.exe
+c:\users\0306982909\documents\visual studio 2013\Projects\Forritunarkepni2014Verk9\Forritunarkepni2014Verk9\obj\Debug\Forritunarkepni2014Verk9.pdb

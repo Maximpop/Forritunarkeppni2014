@@ -1,0 +1,5 @@
+c:\users\0306982909\documents\visual studio 2013\Projects\Forritunarkeppi2014-verk2\Forritunarkeppi2014-verk2\bin\Debug\Forritunarkeppi2014-verk2.exe.config
+c:\users\0306982909\documents\visual studio 2013\Projects\Forritunarkeppi2014-verk2\Forritunarkeppi2014-verk2\bin\Debug\Forritunarkeppi2014-verk2.exe
+c:\users\0306982909\documents\visual studio 2013\Projects\Forritunarkeppi2014-verk2\Forritunarkeppi2014-verk2\bin\Debug\Forritunarkeppi2014-verk2.pdb
+c:\users\0306982909\documents\visual studio 2013\Projects\Forritunarkeppi2014-verk2\Forritunarkeppi2014-verk2\obj\Debug\Forritunarkeppi2014-verk2.exe
+c:\users\0306982909\documents\visual studio 2013\Projects\Forritunarkeppi2014-verk2\Forritunarkeppi2014-verk2\obj\Debug\Forritunarkeppi2014-verk2.pdb

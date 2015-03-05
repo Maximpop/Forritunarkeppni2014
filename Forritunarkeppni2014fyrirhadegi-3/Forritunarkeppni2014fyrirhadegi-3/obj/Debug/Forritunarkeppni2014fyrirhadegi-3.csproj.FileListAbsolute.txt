@@ -1,0 +1,6 @@
+c:\users\0306982909\documents\visual studio 2013\Projects\Forritunarkeppni2014fyrirhadegi-3\Forritunarkeppni2014fyrirhadegi-3\bin\Debug\Forritunarkeppni2014fyrirhadegi-3.exe.config
+c:\users\0306982909\documents\visual studio 2013\Projects\Forritunarkeppni2014fyrirhadegi-3\Forritunarkeppni2014fyrirhadegi-3\bin\Debug\Forritunarkeppni2014fyrirhadegi-3.exe
+c:\users\0306982909\documents\visual studio 2013\Projects\Forritunarkeppni2014fyrirhadegi-3\Forritunarkeppni2014fyrirhadegi-3\bin\Debug\Forritunarkeppni2014fyrirhadegi-3.pdb
+c:\users\0306982909\documents\visual studio 2013\Projects\Forritunarkeppni2014fyrirhadegi-3\Forritunarkeppni2014fyrirhadegi-3\obj\Debug\Forritunarkeppni2014fyrirhadegi-3.csprojResolveAssemblyReference.cache
+c:\users\0306982909\documents\visual studio 2013\Projects\Forritunarkeppni2014fyrirhadegi-3\Forritunarkeppni2014fyrirhadegi-3\obj\Debug\Forritunarkeppni2014fyrirhadegi-3.exe
+c:\users\0306982909\documents\visual studio 2013\Projects\Forritunarkeppni2014fyrirhadegi-3\Forritunarkeppni2014fyrirhadegi-3\obj\Debug\Forritunarkeppni2014fyrirhadegi-3.pdb

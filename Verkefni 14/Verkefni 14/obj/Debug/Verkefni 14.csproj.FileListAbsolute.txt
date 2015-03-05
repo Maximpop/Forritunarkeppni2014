@@ -1,0 +1,5 @@
+c:\users\0306982909\documents\visual studio 2013\Projects\Verkefni 14\Verkefni 14\bin\Debug\Verkefni 14.exe.config
+c:\users\0306982909\documents\visual studio 2013\Projects\Verkefni 14\Verkefni 14\bin\Debug\Verkefni 14.exe
+c:\users\0306982909\documents\visual studio 2013\Projects\Verkefni 14\Verkefni 14\bin\Debug\Verkefni 14.pdb
+c:\users\0306982909\documents\visual studio 2013\Projects\Verkefni 14\Verkefni 14\obj\Debug\Verkefni 14.exe
+c:\users\0306982909\documents\visual studio 2013\Projects\Verkefni 14\Verkefni 14\obj\Debug\Verkefni 14.pdb
