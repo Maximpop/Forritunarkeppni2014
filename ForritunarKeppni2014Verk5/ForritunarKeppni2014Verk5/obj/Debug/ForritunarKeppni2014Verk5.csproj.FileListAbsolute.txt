@@ -3,3 +3,9 @@ c:\users\0306982909\documents\visual studio 2013\Projects\ForritunarKeppni2014Ve
 c:\users\0306982909\documents\visual studio 2013\Projects\ForritunarKeppni2014Verk5\ForritunarKeppni2014Verk5\bin\Debug\ForritunarKeppni2014Verk5.pdb
 c:\users\0306982909\documents\visual studio 2013\Projects\ForritunarKeppni2014Verk5\ForritunarKeppni2014Verk5\obj\Debug\ForritunarKeppni2014Verk5.exe
 c:\users\0306982909\documents\visual studio 2013\Projects\ForritunarKeppni2014Verk5\ForritunarKeppni2014Verk5\obj\Debug\ForritunarKeppni2014Verk5.pdb
+C:\Users\0306982909\Documents\GitHub\Forritunarkeppni2014\ForritunarKeppni2014Verk5\ForritunarKeppni2014Verk5\bin\Debug\ForritunarKeppni2014Verk5.exe.config
+C:\Users\0306982909\Documents\GitHub\Forritunarkeppni2014\ForritunarKeppni2014Verk5\ForritunarKeppni2014Verk5\obj\Debug\ForritunarKeppni2014Verk5.exe
+C:\Users\0306982909\Documents\GitHub\Forritunarkeppni2014\ForritunarKeppni2014Verk5\ForritunarKeppni2014Verk5\obj\Debug\ForritunarKeppni2014Verk5.pdb
+C:\Users\0306982909\Documents\GitHub\Forritunarkeppni2014\ForritunarKeppni2014Verk5\ForritunarKeppni2014Verk5\bin\Debug\ForritunarKeppni2014Verk5.exe
+C:\Users\0306982909\Documents\GitHub\Forritunarkeppni2014\ForritunarKeppni2014Verk5\ForritunarKeppni2014Verk5\bin\Debug\ForritunarKeppni2014Verk5.pdb
+C:\Users\0306982909\Documents\GitHub\Forritunarkeppni2014\ForritunarKeppni2014Verk5\ForritunarKeppni2014Verk5\obj\Debug\ForritunarKeppni2014Verk5.csprojResolveAssemblyReference.cache

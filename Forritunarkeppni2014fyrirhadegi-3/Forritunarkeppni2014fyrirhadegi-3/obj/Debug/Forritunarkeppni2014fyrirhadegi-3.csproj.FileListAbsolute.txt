@@ -4,3 +4,9 @@ c:\users\0306982909\documents\visual studio 2013\Projects\Forritunarkeppni2014fy
 c:\users\0306982909\documents\visual studio 2013\Projects\Forritunarkeppni2014fyrirhadegi-3\Forritunarkeppni2014fyrirhadegi-3\obj\Debug\Forritunarkeppni2014fyrirhadegi-3.csprojResolveAssemblyReference.cache
 c:\users\0306982909\documents\visual studio 2013\Projects\Forritunarkeppni2014fyrirhadegi-3\Forritunarkeppni2014fyrirhadegi-3\obj\Debug\Forritunarkeppni2014fyrirhadegi-3.exe
 c:\users\0306982909\documents\visual studio 2013\Projects\Forritunarkeppni2014fyrirhadegi-3\Forritunarkeppni2014fyrirhadegi-3\obj\Debug\Forritunarkeppni2014fyrirhadegi-3.pdb
+C:\Users\0306982909\Documents\GitHub\Forritunarkeppni2014\Forritunarkeppni2014fyrirhadegi-3\Forritunarkeppni2014fyrirhadegi-3\bin\Debug\Forritunarkeppni2014fyrirhadegi-3.exe.config
+C:\Users\0306982909\Documents\GitHub\Forritunarkeppni2014\Forritunarkeppni2014fyrirhadegi-3\Forritunarkeppni2014fyrirhadegi-3\obj\Debug\Forritunarkeppni2014fyrirhadegi-3.exe
+C:\Users\0306982909\Documents\GitHub\Forritunarkeppni2014\Forritunarkeppni2014fyrirhadegi-3\Forritunarkeppni2014fyrirhadegi-3\obj\Debug\Forritunarkeppni2014fyrirhadegi-3.pdb
+C:\Users\0306982909\Documents\GitHub\Forritunarkeppni2014\Forritunarkeppni2014fyrirhadegi-3\Forritunarkeppni2014fyrirhadegi-3\bin\Debug\Forritunarkeppni2014fyrirhadegi-3.exe
+C:\Users\0306982909\Documents\GitHub\Forritunarkeppni2014\Forritunarkeppni2014fyrirhadegi-3\Forritunarkeppni2014fyrirhadegi-3\bin\Debug\Forritunarkeppni2014fyrirhadegi-3.pdb
+C:\Users\0306982909\Documents\GitHub\Forritunarkeppni2014\Forritunarkeppni2014fyrirhadegi-3\Forritunarkeppni2014fyrirhadegi-3\obj\Debug\Forritunarkeppni2014fyrirhadegi-3.csprojResolveAssemblyReference.cache
