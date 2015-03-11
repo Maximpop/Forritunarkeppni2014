@@ -1,6 +1,0 @@
-\\skra2.2t.local\nemfredirect$\0306982909\Documents\Visual Studio 2013\Projects\Forritrkepni2014eftirhadegiverk6\Forritrkepni2014eftirhadegiverk6\bin\Debug\Forritrkepni2014eftirhadegiverk6.exe.config
-\\skra2.2t.local\nemfredirect$\0306982909\Documents\Visual Studio 2013\Projects\Forritrkepni2014eftirhadegiverk6\Forritrkepni2014eftirhadegiverk6\bin\Debug\Forritrkepni2014eftirhadegiverk6.exe
-\\skra2.2t.local\nemfredirect$\0306982909\Documents\Visual Studio 2013\Projects\Forritrkepni2014eftirhadegiverk6\Forritrkepni2014eftirhadegiverk6\bin\Debug\Forritrkepni2014eftirhadegiverk6.pdb
-\\skra2.2t.local\nemfredirect$\0306982909\Documents\Visual Studio 2013\Projects\Forritrkepni2014eftirhadegiverk6\Forritrkepni2014eftirhadegiverk6\obj\Debug\Forritrkepni2014eftirhadegiverk6.csprojResolveAssemblyReference.cache
-\\skra2.2t.local\nemfredirect$\0306982909\Documents\Visual Studio 2013\Projects\Forritrkepni2014eftirhadegiverk6\Forritrkepni2014eftirhadegiverk6\obj\Debug\Forritrkepni2014eftirhadegiverk6.exe
-\\skra2.2t.local\nemfredirect$\0306982909\Documents\Visual Studio 2013\Projects\Forritrkepni2014eftirhadegiverk6\Forritrkepni2014eftirhadegiverk6\obj\Debug\Forritrkepni2014eftirhadegiverk6.pdb
