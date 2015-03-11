@@ -1,6 +1,0 @@
-c:\users\0306982909\documents\visual studio 2013\Projects\Verkefni11\Verkefni11\bin\Debug\Verkefni11.exe.config
-c:\users\0306982909\documents\visual studio 2013\Projects\Verkefni11\Verkefni11\bin\Debug\Verkefni11.exe
-c:\users\0306982909\documents\visual studio 2013\Projects\Verkefni11\Verkefni11\bin\Debug\Verkefni11.pdb
-c:\users\0306982909\documents\visual studio 2013\Projects\Verkefni11\Verkefni11\obj\Debug\Verkefni11.csprojResolveAssemblyReference.cache
-c:\users\0306982909\documents\visual studio 2013\Projects\Verkefni11\Verkefni11\obj\Debug\Verkefni11.exe
-c:\users\0306982909\documents\visual studio 2013\Projects\Verkefni11\Verkefni11\obj\Debug\Verkefni11.pdb
