@@ -4,13 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Forritunkeppni2014_verk1
+namespace Verk4
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Liðið LID er tilbúið í slaginn!");
+            int i = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine(i * 2);
             Console.ReadLine();
         }
     }
