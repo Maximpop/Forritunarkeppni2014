@@ -1,0 +1,6 @@
+\\skra2.2t.local\nemfredirect$\0306982909\Documents\Visual Studio 2013\Projects\Forritunarkeppni2014eftirhadegi\Forritunarkeppni2014eftirhadegi\bin\Debug\Forritunarkeppni2014eftirhadegi.exe.config
+\\skra2.2t.local\nemfredirect$\0306982909\Documents\Visual Studio 2013\Projects\Forritunarkeppni2014eftirhadegi\Forritunarkeppni2014eftirhadegi\bin\Debug\Forritunarkeppni2014eftirhadegi.exe
+\\skra2.2t.local\nemfredirect$\0306982909\Documents\Visual Studio 2013\Projects\Forritunarkeppni2014eftirhadegi\Forritunarkeppni2014eftirhadegi\bin\Debug\Forritunarkeppni2014eftirhadegi.pdb
+\\skra2.2t.local\nemfredirect$\0306982909\Documents\Visual Studio 2013\Projects\Forritunarkeppni2014eftirhadegi\Forritunarkeppni2014eftirhadegi\obj\Debug\Forritunarkeppni2014eftirhadegi.csprojResolveAssemblyReference.cache
+\\skra2.2t.local\nemfredirect$\0306982909\Documents\Visual Studio 2013\Projects\Forritunarkeppni2014eftirhadegi\Forritunarkeppni2014eftirhadegi\obj\Debug\Forritunarkeppni2014eftirhadegi.exe
+\\skra2.2t.local\nemfredirect$\0306982909\Documents\Visual Studio 2013\Projects\Forritunarkeppni2014eftirhadegi\Forritunarkeppni2014eftirhadegi\obj\Debug\Forritunarkeppni2014eftirhadegi.pdb

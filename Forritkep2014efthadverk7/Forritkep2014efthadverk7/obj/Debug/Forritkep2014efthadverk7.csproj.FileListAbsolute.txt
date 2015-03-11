@@ -1,0 +1,5 @@
+\\skra2.2t.local\nemfredirect$\0306982909\Documents\Visual Studio 2013\Projects\Forritkep2014efthadverk7\Forritkep2014efthadverk7\bin\Debug\Forritkep2014efthadverk7.exe.config
+\\skra2.2t.local\nemfredirect$\0306982909\Documents\Visual Studio 2013\Projects\Forritkep2014efthadverk7\Forritkep2014efthadverk7\bin\Debug\Forritkep2014efthadverk7.exe
+\\skra2.2t.local\nemfredirect$\0306982909\Documents\Visual Studio 2013\Projects\Forritkep2014efthadverk7\Forritkep2014efthadverk7\bin\Debug\Forritkep2014efthadverk7.pdb
+\\skra2.2t.local\nemfredirect$\0306982909\Documents\Visual Studio 2013\Projects\Forritkep2014efthadverk7\Forritkep2014efthadverk7\obj\Debug\Forritkep2014efthadverk7.exe
+\\skra2.2t.local\nemfredirect$\0306982909\Documents\Visual Studio 2013\Projects\Forritkep2014efthadverk7\Forritkep2014efthadverk7\obj\Debug\Forritkep2014efthadverk7.pdb
